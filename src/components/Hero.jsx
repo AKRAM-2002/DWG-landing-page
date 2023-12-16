@@ -16,7 +16,6 @@ const Hero = () => {
             'Custom AI Development',
             'AI-Driven Automation',
             'AI Consulting',
-
         ]}
         typeSpeed={120}
         backSpeed={40}
