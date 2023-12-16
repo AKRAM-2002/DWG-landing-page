@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/DWG-landing-page/static/css/main.936dff9f.css",
-    "main.js": "/DWG-landing-page/static/js/main.9072d49a.js",
+    "main.css": "/DWG-landing-page/static/css/main.3b536924.css",
+    "main.js": "/DWG-landing-page/static/js/main.24e623b5.js",
     "index.html": "/DWG-landing-page/index.html",
-    "main.936dff9f.css.map": "/DWG-landing-page/static/css/main.936dff9f.css.map",
-    "main.9072d49a.js.map": "/DWG-landing-page/static/js/main.9072d49a.js.map"
+    "main.3b536924.css.map": "/DWG-landing-page/static/css/main.3b536924.css.map",
+    "main.24e623b5.js.map": "/DWG-landing-page/static/js/main.24e623b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.936dff9f.css",
-    "static/js/main.9072d49a.js"
+    "static/css/main.3b536924.css",
+    "static/js/main.24e623b5.js"
   ]
 }
